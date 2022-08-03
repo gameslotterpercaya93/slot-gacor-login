@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-gacor-login",
+        "command": "slot-gacor-login:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-gacor-login",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-gacor-login:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

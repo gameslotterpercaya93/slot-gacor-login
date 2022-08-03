@@ -1,0 +1,18 @@
+{
+  "name": "slot-gacor-login",
+  "main": "./lib/slot-gacor-login",
+  "version": "1.0.0",
+  "description": "Coba Link Demo Situs Terpercaya Slot Gacor Login Penghasil Uang Asli",
+  "keywords": ["slot online gampang menang","slot spade gaming","bandar slot online","slot pragmatic play","slot online gampang menang","agen toto play slot","slot habanero","agentotoplay","slot habanero","microgaming"],
+
+  "activationCommands": {
+    "atom-workspace": "slot-gacor-login:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya93/slot-gacor-login",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
